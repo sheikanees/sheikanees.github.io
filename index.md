@@ -2,9 +2,10 @@
 
 ---
 
-### Data Analysis 
+### Data Analysis Projects
 
 [Determining important factors that impact SAT scores](https://github.com/sheikanees/SATscores_demographics_correlations/blob/master/Correlations%20between%20SAT%20scores%20and%20Demographics/correlationsSAT.ipynb)
+
 <img src="images/SAT scores.jpg?raw=true"/>
 
 ---
