@@ -4,8 +4,8 @@
 
 ### Data Analysis 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Determining important factors that impact SAT scores](https://github.com/sheikanees/SATscores_demographics_correlations/blob/master/Correlations%20between%20SAT%20scores%20and%20Demographics/correlationsSAT.ipynb)
+<img src="images/SAT scores.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
