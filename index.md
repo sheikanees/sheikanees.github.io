@@ -11,7 +11,7 @@
 ---
 [What does America think about the Star Wars Series?](https://github.com/sheikanees/americans_Star_Wars/blob/master/Basics.ipynb)
 
-<img src="images/starwars.jp2?raw=true"/>
+<img src="images/starwars.jpg?raw=true"/>
 
 ---
 [Resignation Trends in 2 Educational Institutes](https://github.com/sheikanees/resignation_trends_education/blob/master/Basics.ipynb)
