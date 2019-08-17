@@ -16,10 +16,11 @@
 ---
 [Resignation Trends in 2 Educational Institutes](https://github.com/sheikanees/resignation_trends_education/blob/master/Basics.ipynb)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/resignation.jpg?raw=true"/>
 
 ---
 [Determining which type and timing of posts on Hacker News yields highest number of comments:](https://github.com/sheikanees/hacker_news_post/blob/master/HackerNews.ipynb)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/hackernews.jpg?raw=true"/>
 
+---
