@@ -4,7 +4,7 @@
 ### Machine Learning Projects 
 [Predicting existence of Pneumonia in Chest X-ray Images with the use of VGG-16 model](https://github.com/sheikanees/ChestXray/blob/master/Untitled.ipynb)  
 
-<img src="images/hand.png?raw=true"/>
+<img src="images/xray.jpeg?raw=true"/>
 
 ---
 ### Data Analysis Projects 
