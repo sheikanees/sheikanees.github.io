@@ -2,7 +2,7 @@
 
 ---
 ### Machine Learning Projects 
-[Deciphering numbers in sign language from images with machine learning](https://github.com/sheikanees/Predictingsignlanguageimages/blob/master/Untitled.ipynb)  
+[Predicting existence of Pneumonia in Chest X-ray Images with the use of VGG-16 model](https://github.com/sheikanees/ChestXray/blob/master/Untitled.ipynb)  
 
 <img src="images/hand.png?raw=true"/>
 
