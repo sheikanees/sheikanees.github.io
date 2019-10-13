@@ -31,5 +31,5 @@
 [Determining which type and timing of posts on Hacker News yields highest number of comments:](https://github.com/sheikanees/hacker_news_post/blob/master/HackerNews.ipynb)
 
 <img src="images/hackernews.jpg?raw=true"/>
-
+ 
 ---
