@@ -2,7 +2,11 @@
 
 ---
 ### Machine Learning Projects 
-[Predicting existence of Pneumonia in Chest X-ray Images with the use of VGG-16 model](https://github.com/sheikanees/ChestXray/blob/master/Untitled.ipynb)  
+[Predicting existence of Pneumonia in Chest X-ray Images by transfer learning with the VGG-16 model](https://github.com/sheikanees/ChestXray/blob/master/Untitled.ipynb)  
+
+<img src="images/xray.jpeg?raw=true"/>
+
+[Sentiment Analysis of tweets about Airlines in US using Glove for text embeddings and LSTM network](https://github.com/sheikanees/SentimentClassificationAirlineTweets/blob/master/Untitled.ipynb)  
 
 <img src="images/xray.jpeg?raw=true"/>
 
