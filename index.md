@@ -8,7 +8,7 @@
 
 [Sentiment Analysis of tweets about Airlines in US using Glove for text embeddings and LSTM network](https://github.com/sheikanees/SentimentClassificationAirlineTweets/blob/master/Untitled.ipynb)  
 
-<img src="images/xray.jpeg?raw=true"/>
+<img src="images/airliens.jpeg?raw=true"/>
 
 ---
 ### Data Analysis Projects 
