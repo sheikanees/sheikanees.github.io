@@ -12,7 +12,7 @@
 
 [Shakespearean Text Generation using LSTM & Embedding](https://github.com/sheikanees/Shakespearean-Text-Generation/blob/master/Shakespearean_Text_Generation_using_LSTM_%26_Embedding.ipynb)  
 
-<img src="images/airliens.jpg?raw=true"/>
+<img src="images/shakespeare.jpg?raw=true"/>
 
 ---
 ### Data Analysis Projects 
