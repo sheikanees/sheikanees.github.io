@@ -12,7 +12,7 @@
 
 [Predicting number of Sunspots present on surface of the Sun using Conv1D and LSTM layers (time-series data)](https://github.com/sheikanees/sunspots/blob/master/Predicting_number_of_Sunspots_present_on_surface_of_the_Sun_using_Conv1D_and_LSTM_layers_(time_series_data).ipynb)  
 
-<img src="images/airliens.jpg?raw=true"/>
+<img src="images/sunspot.jpg?raw=true"/>
 
 [Shakespearean Text Generation using LSTM & Embedding](https://github.com/sheikanees/Shakespearean-Text-Generation/blob/master/Shakespearean_Text_Generation_using_LSTM_%26_Embedding.ipynb)  
 
